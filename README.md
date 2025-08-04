@@ -39,4 +39,9 @@ The app uses a trained model (Logistic Regression or Decision Tree) to determine
    pip install -r requirements.txt
 **run the app:**
    streamlit run app.py
+   
+   cd path/to/loan-predictor-app
+   git add random_model.pkl
+git commit -m "Add trained model"
+git push
 
