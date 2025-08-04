@@ -33,7 +33,7 @@ The app uses a trained model (Logistic Regression or Decision Tree) to determine
 
 ## How to Run Locally
 **Clone the repository:**
-   git clone https://github.com/yourusername/loan-predictor-app.git
+   git clone https://github.com/PrideofBarbados/loan-predictor-app.git
    cd loan-predictor-app
 **install dependencies:**
    pip install -r requirements.txt
